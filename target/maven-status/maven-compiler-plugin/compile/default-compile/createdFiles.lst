@@ -1,0 +1,6 @@
+com\mycompany\gestionclient\Gestionclient.class
+connexion\Connexion.class
+service\Service.class
+test\TestJDBC.class
+dao\Dao.class
+ma\projet\beans\Client.class
